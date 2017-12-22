@@ -9,5 +9,15 @@ body {
 
 .two {
     width: 300px;
-    text-align: left;
+    text-align: center;
+}
+
+.three {
+    width: 300px;
+    text-align: center;
+}
+
+.four {
+    width: 300px;
+    text-align: center
 }
