@@ -6,3 +6,8 @@ body {
     text-align: center;
     font-family: "arial";
 }
+
+.two {
+    width: 300px;
+    text-align: left;
+}
