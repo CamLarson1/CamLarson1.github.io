@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://github.com/hackclub/hackclub/blob/master/workshops/find_bigfoot/assets/forest.jpg?raw=true")
+}
+
+img {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
